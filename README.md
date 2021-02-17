@@ -2,9 +2,9 @@
 ### **Course Code:** CSE-456
 
 ### Submitted By
-**Name:** Nusrat Sultana <br>
-**ID:** 358 <br>
-**Session:** 4th Year 2nd Semester <br>
+Nusrat Sultana <br>
+358 <br>
+4th Year 2nd Semester <br>
 
 
 ### Submitted to
