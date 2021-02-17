@@ -1,10 +1,10 @@
 ## TASK: Develop a new typeface of অ  and ক.
 
-**Name:** Nusrat Sultana
-**ID:** 358
-**Session:** 4th Year 2nd Semester
+**Name:** Nusrat Sultana <br>
+**ID:** 358 <br>
+**Session:** 4th Year 2nd Semester <br>
 
-**Course Code:** CSE-456
+**Course Code:** CSE-456 <br>
 **Course Title:** Multimedia and Animation Techniques Laboratory
  
 
