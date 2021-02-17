@@ -11,5 +11,17 @@
 ### Equipments
 - Fontforge
 - Adobe Illustrator
+
+
+### Tools
+- Pen tool
+- Pencil tool
+- Eraser tool
+- Shape tool
+- Path finder tool
+- Selection tool
+- Zoom tool
+- Hand tool
+
    
 I done this task by using _H980x unicode_, specifically **"0985 code for অ "**  and **"0995 code for ক"**.
