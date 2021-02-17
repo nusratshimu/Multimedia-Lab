@@ -9,4 +9,5 @@
 
 ### Lab Submissions
 - [Lab-1: Typeface Design](/Lab1)
+- [Lab-2: To be added]()
 
