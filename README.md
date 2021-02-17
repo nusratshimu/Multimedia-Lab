@@ -8,5 +8,5 @@
  
 
 ### Lab Submissions
-- [Lab-1: Typeface Design](/Lab1/README.md)
+- [Lab-1: Typeface Design](/Lab1)
 
