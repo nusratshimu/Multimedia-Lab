@@ -1,6 +1,4 @@
-## Multimedia and Animation Techniques Laboratory
-### **Course Code:** CSE-456
-
+## Dataset of diaglass
 ### Submitted By
 Nusrat Sultana <br>
 358 <br>
