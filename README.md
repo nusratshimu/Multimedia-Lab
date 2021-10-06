@@ -1,18 +1,27 @@
-## Dataset of diaglass
-### Submitted By
-Nusrat Sultana <br>
-358 <br>
-4th Year 2nd Semester <br>
+## TASK: Develop a new typeface of অ  and ক.
+
+**Name:** Nusrat Sultana <br>
+**ID:** 358 <br>
+**Session:** 4th Year 2nd Semester <br>
+
+**Course Code:** CSE-456 <br>
+**Course Title:** Multimedia and Animation Techniques Laboratory
+ 
+
+### Equipments
+- Fontforge
+- Adobe Illustrator
 
 
-### Submitted to
-Dr. Mohammad Zahidur Rahman <br>
-Professor <br>
-Department of Computer Science and Engineering <br>
-Jahangirnagar University <br>
+### Tools
+- Pen tool
+- Pencil tool
+- Eraser tool
+- Shape tool
+- Path finder tool
+- Selection tool
+- Zoom tool
+- Hand tool
 
-
-### Lab Submissions
-- [Lab-1: Typeface Design](/Lab1)
-
-
+   
+I done this task by using _H980x unicode_, specifically **"0985 code for অ "**  and **"0995 code for ক"**.
